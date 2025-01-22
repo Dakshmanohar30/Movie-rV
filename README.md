@@ -14,7 +14,7 @@ Recommendation Generation: Provides a list of recommended movies based on user i
 
 # Getting Started
 # 1. Clone the Repository
-  git clone https://github.com/yourusername/your-repo-name.git
+  git clone https://github.com/Dakshmanohar30/Movie-rV.git
 
 # 2.Ensure you have Python installed.
  .Install the required Python packages using 
